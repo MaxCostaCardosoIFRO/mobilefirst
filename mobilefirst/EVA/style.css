@@ -1,0 +1,18 @@
+.rei{
+  
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+    height: auto;
+    border: rgb(201, 240, 164) 5px solid;
+    width: 500px;
+    height: 500px; 
+
+}
+body{
+
+    background-color: rgb(170, 206, 137);
+    
+}
